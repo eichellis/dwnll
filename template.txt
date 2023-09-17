@@ -11,6 +11,5 @@ https://civitai.com/api/download/models/112969
 https://civitai.com/api/download/models/5637
 
 
-#extension
-https://github.com/ototadana/sd-face-editor.git
-https://github.com/Uminosachi/sd-webui-inpaint-anything.git
+#upscaler
+https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/8x_NMKD-Superscale_150000_G.pth
