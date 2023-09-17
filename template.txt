@@ -1,14 +1,14 @@
 #model
-https://civitai.com/api/download/models/55911?type=Model&format=SafeTensor&size=pruned&fp=fp16
-https://civitai.com/api/download/models/126470?type=Model&format=SafeTensor&size=pruned&fp=fp16
+https://civitai.com/api/download/models/55911
+https://civitai.com/api/download/models/126470
 
 #lora
 https://civitai.com/api/download/models/62833
-https://civitai.com/api/download/models/102533?type=Model&format=SafeTensor
-https://civitai.com/api/download/models/112969?type=Model&format=SafeTensor
+https://civitai.com/api/download/models/102533
+https://civitai.com/api/download/models/112969
 
 #embedding
-https://civitai.com/api/download/models/5637?type=Model&format=PickleTensor&size=full&fp=fp16
+https://civitai.com/api/download/models/5637
 
 
 #extension
