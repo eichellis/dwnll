@@ -1,13 +1,16 @@
 #model
-
-
+https://civitai.com/api/download/models/55911?type=Model&format=SafeTensor&size=pruned&fp=fp16
+https://civitai.com/api/download/models/126470?type=Model&format=SafeTensor&size=pruned&fp=fp16
 
 #lora
-
-
+https://civitai.com/api/download/models/62833
+https://civitai.com/api/download/models/102533?type=Model&format=SafeTensor
+https://civitai.com/api/download/models/112969?type=Model&format=SafeTensor
 
 #embedding
-
+https://civitai.com/api/download/models/5637?type=Model&format=PickleTensor&size=full&fp=fp16
 
 
 #extension
+https://github.com/ototadana/sd-face-editor.git
+https://github.com/Uminosachi/sd-webui-inpaint-anything.git
